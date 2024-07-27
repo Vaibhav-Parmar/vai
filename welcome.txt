@@ -1,0 +1,4 @@
+This is the welcome message
+
+
+there is no goodbye message in the file
