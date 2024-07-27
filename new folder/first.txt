@@ -3,3 +3,7 @@ this is the first file
 this file is in the new folder
 
 this is the only text file
+
+there is only one file in the new folder
+
+why are you reading this file
